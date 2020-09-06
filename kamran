@@ -1,0 +1,217 @@
+// Printers
+
+var view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0.021, green: 0.021, blue: 0.021, alpha: 1).cgColor
+
+
+
+// PRINT 4
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// PRINT 3
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// PRINT 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// PRINT
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// VIEW 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// VIEW
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// DATABASE 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// DATABASE
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 9
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 8
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 7
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 6
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 5
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 4
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 3
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// CONFIGURE
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Home screen
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Login 3
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0.021, green: 0.021, blue: 0.021, alpha: 1).cgColor
+
+
+
+// Login 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0.021, green: 0.021, blue: 0.021, alpha: 1).cgColor
+
+
+
+// Login 1
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0.021, green: 0.021, blue: 0.021, alpha: 1).cgColor
